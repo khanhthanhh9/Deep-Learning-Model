@@ -1,1 +1,3 @@
 
+convert.py : Convert all mp3 to wav, also delete mp3
+spectro.py : create png from wav file
